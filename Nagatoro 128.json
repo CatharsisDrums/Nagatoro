@@ -1,0 +1,19 @@
+{
+  "title": "Nagatoro 128+",
+  "description": "",
+  "artist": "Nanashi",
+  "author": "Nanashi",
+  "cover": "https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/4/4a/Volume_16.jpg",
+  "chapters": {
+    "128": {
+      "title": "128",
+      "volume": "16",
+      "last_updated": "1684200283",
+      "groups": {
+        "": [
+          "https://imgur.com/a/Q5tdPsP/"
+        ]
+      }
+    }
+  }
+}
